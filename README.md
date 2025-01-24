@@ -46,8 +46,8 @@
   <a target="_blank" href="https://www.databricks.com/">
     <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://www.svgrepo.com/show/306855/tableau-software.svg" style="display: inline-block;">
-    <img src="https://www.svgrepo.com/show/306855/tableau-software.svg" alt="tableau" width="42" height="42" />
+  <a target="_blank" href="https://www.microsoft.com/en-us/microsoft-fabric/getting-started?msockid=1f2ec8a52ceb6d5812a9dc9c2db06c8c" style="display: inline-block;">
+    <img src="https://drive.google.com/file/d/1zhOhXr92y0RptLrsESIJN2ZYcwkFeM2V/view?usp=sharing" alt="Microsoft Fabric" width="42" height="42" />
   </a>
   <a target="_blank" href="https://www.svgrepo.com/show/376359/microsoft-fabric.svg" style="display: inline-block;">
     <img src="https://www.svgrepo.com/show/376359/microsoft-fabric.svg" alt="microsoft-fabric" width="42" height="42" />
