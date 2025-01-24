@@ -1,5 +1,11 @@
 <h1>Hi 👋, I'm Monged</h1>
-<p>A Professional Data & Analytics Engineer </p>
+<p>A Professional Data & Analytics Engineer passionate about the Big Data field with ambitious goals.</p>
+
+- 📈 Continuously & actively learning.  
+- ☁️ Working with various cloud platforms.  
+- ✍️ Occasionally writing articles.  
+- 🤝 Love connecting and communicating with great minds.  
+
 <!-- 
 # 💻 Tech Stack
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  
@@ -33,4 +39,32 @@
     <img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" />
   </a>
 </p>
+---
+<h1>💻 Featured YouTube Videos</h1>
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- If you want to display the latest videos, follow the instructions in the above repo. -->
+<!-- If you want to select specific videos, generate the video links by changing the parameters as shown below. -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<p>
+  <a href="https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ" target="_blank">
+    <img src="https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="5 things I wish I knew before studying Computer Science">
+  </a>
+</p>
+<!-- END YOUTUBE-CARDS -->
 
+---
+<h1>🎓 Certifications</h1>
+<p>Certifications I've Obtained:</p>
+<ul>
+  <li><strong>Azure Data Engineer Associate</strong></li>
+  <li><strong>Fabric Analytics Engineer Associate</strong></li>
+  <li><strong>Databricks Data Analyst Associate</strong></li>
+  <li><strong>Advanced Data Analysis Nanodegree</strong></li>
+  <li><strong>Professional Data Analysis Nanodegree</strong></li>
+  <li><strong>Machine Learning Cross-Skilling Nanodegree</strong></li>
+</ul>
+---
+
+# 📫 Contact Me
+- **Email**: [ahmedelmagdaly123@gmail.com](ahmedelmagdaly123@gmail.com)
+- **LinkedIn**: [Ahmed Monged](www.linkedin.com/in/ahmed-monged-1287341b4)
