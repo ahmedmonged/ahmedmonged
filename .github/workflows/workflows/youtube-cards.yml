@@ -16,3 +16,5 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCZ1d4eulS6rz5BgisD8AYbQ
+          card_width: 800
+          border_radius: 10
