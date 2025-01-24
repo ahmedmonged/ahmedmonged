@@ -45,11 +45,7 @@
 <!-- If you want to display the latest videos, follow the instructions in the above repo. -->
 <!-- If you want to select specific videos, generate the video links by changing the parameters as shown below. -->
 <!-- BEGIN YOUTUBE-CARDS -->
-<p>
-  <a href="https://youtu.be/zMvgg2BRlOY?si=RzXfR_iCoE1jl508" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=zMvgg2BRlOY&title=Microsoft+Fabric+End-To-End+Architecture+And+Solution&lang=en&timestamp=1737745388&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=826 "Microsoft Fabric End-To-End Architecture & Solution") ">
-  </a>
-</p>
+[![Microsoft Fabric End-To-End Architecture & Solution](https://ytcards.demolab.com/?id=zMvgg2BRlOY&title=Microsoft+Fabric+End-To-End+Architecture+%26+Solution&lang=en&timestamp=1737729650&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=800&border_radius=10 "Microsoft Fabric End-To-End Architecture & Solution")](https://www.youtube.com/watch?v=zMvgg2BRlOY)
 <!-- END YOUTUBE-CARDS -->
 
 ---
