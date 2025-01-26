@@ -1,11 +1,12 @@
 <h1>Hi there👋, I'm Monged</h1>
 <p>A Professional Data & Analytics Engineer passionate about the Big Data field with ambitious goals.</p>
-- 🔭 I’m currently working on Data Engineering Projects
-- 🌱 I’m currently Extending my knowledge in Big Data & Data Engineering
+
+- ⚒️ I’m currently working on Data Engineering Projects 
+- 🌱 I’m currently Extending my knowledge in Big Data & Data Engineering 
 - 📈 Continuously & actively learning   
 - ☁️ Working with various cloud platforms  
 - ✍️ Occasionally writing articles  
-- 🤝 Love connecting and communicating with great minds 
+- ⛓️‍💥 I am flexible and always learning.  
 
 <!-- 
 # 💻 Tech Stack
