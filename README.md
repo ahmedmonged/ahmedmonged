@@ -46,13 +46,13 @@
 <br />
 
 
-#
-<h2>▶️ Featured Videos</h2>
+
+###▶️ Featured Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, follow the instructions in the above repo. -->
 <!-- If you want to select specific videos, generate the video links by changing the parameters as shown below. -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Microsoft Fabric End-To-End Architecture & Solution](https://ytcards.demolab.com/?id=zMvgg2BRlOY&title=Microsoft+Fabric+End-To-End+Architecture+%26+Solution&lang=en&timestamp=1737729650&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=800&border_radius=10 "Microsoft Fabric End-To-End Architecture & Solution")](https://www.youtube.com/watch?v=zMvgg2BRlOY)
+[![Microsoft Fabric End-To-End Architecture & Solution](https://ytcards.demolab.com/?id=zMvgg2BRlOY&title=Microsoft+Fabric+End-To-End+Architecture+%26+Solution&lang=en&timestamp=1737729650&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=350&border_radius=10 "Microsoft Fabric End-To-End Architecture & Solution")](https://www.youtube.com/watch?v=zMvgg2BRlOY)
 <!-- END YOUTUBE-CARDS -->
 
 ---
