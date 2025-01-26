@@ -9,6 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     # Run the GitHub Readme YouTube Cards action
+    permissions:
+      contents: write
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
