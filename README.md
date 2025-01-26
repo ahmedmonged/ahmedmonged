@@ -1,5 +1,5 @@
 <h1>Hi there👋, I'm Monged</h1>
-<p>A professional data and analytics engineer passionate about the big data field, I have worked on large-scale projects.</p>
+<p>A professional data and analytics engineer passionate about the big data field.</p>
 
 - ⚒️ I’m currently working on Data Engineering Projects 
 - 🌱 I’m currently Extending my knowledge in Big Data & Data Engineering 
