@@ -46,8 +46,8 @@
 <br />
 
 
-
-###▶️ Featured Videos
+---
+### ▶️ Featured Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, follow the instructions in the above repo. -->
 <!-- If you want to select specific videos, generate the video links by changing the parameters as shown below. -->
