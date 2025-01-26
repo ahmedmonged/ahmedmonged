@@ -29,16 +29,6 @@
     <img src="https://cdn.brandfetch.io/idSUrLOWbH/idOSUN2QlG.svg?c=1bfwsmEH20zzEfSNTed" alt="Databricks" width="42" height="42" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a><a target="_blank" href="https://www.microsoft.com/en-us/microsoft-fabric/getting-started?msockid=1f2ec8a52ceb6d5812a9dc9c2db06c8c" style="display: inline-block;"><img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/fabric.png" alt="Microsoft Fabric" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a><a target="_blank" href="https://app.powerbi.com/home" style="display: inline-block;"><img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/power_bi.png" alt="Power BI" width="42" height="42" /></a><a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Sql Server" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a><a target="_blank" href="https://learn.microsoft.com/en-us/dax/" style="display: inline-block;"><img src="https://miro.medium.com/v2/resize:fit:550/0*ZmwVea_SMeBIcQra.png" alt="DAX" width="60" height="40" /></a><a target="_blank" href="https://pandas.pydata.org/about/citing.html" style="display: inline-block;"><img src="https://th.bing.com/th/id/OIP.CMfBVcX4VozfYWR2Scu22AHaC_?rs=1&pid=ImgDetMain" alt="Pandas" width="65" height="40" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="42" height="42" /></a>
 </p>
 
-
-<h2>⚡️ Where to find me</h2>
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/ahmed-monged-1287341b4" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-  </a>
-  <a target="_blank" href="https://www.youtube.com/@ahmedmonged2611" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" />
-  </a>
-</p>
 ---
 <h1> ▶️ Featured Videos</h1>
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
@@ -62,7 +52,17 @@
   <li><strong>Machine Learning Cross-Skilling Nanodegree</strong></li>
 </ul>
 ---
+<h2>⚡️ Where to find me</h2>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/ahmed-monged-1287341b4" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
+  <a target="_blank" href="https://www.youtube.com/@ahmedmonged2611" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" />
+  </a>
+  <a target="_blank" href="ahmedelmagdaly123@gmail.com" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil" />
+  </a>
+</p>
 
-# 📫 Contact Me
-- **Email**: [ahmedelmagdaly123@gmail.com](ahmedelmagdaly123@gmail.com)
-- **LinkedIn**: [Ahmed Monged](www.linkedin.com/in/ahmed-monged-1287341b4)
+
