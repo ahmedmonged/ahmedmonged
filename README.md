@@ -5,7 +5,7 @@
 - 🌱 I’m currently Extending my knowledge in Big Data & Data Engineering 
 - 📈 Flexible & Continuously learning   
 - ☁️ Working with various cloud platforms  
-- ✍️ Occasionally writing [articles]([your-link-here](https://medium.com/@ahmedelmagdaly123))
+- ✍️ Occasionally writing [articles](https://medium.com/@ahmedelmagdaly123)
 - 📫 How to reach me: **ahmedelmagdaly123@gmail.com**
 
 <!-- 
