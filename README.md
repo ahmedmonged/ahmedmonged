@@ -60,6 +60,10 @@
 <p>Certifications I've Obtained:</p>
 <ul>
   <li>
+    <strong>Databricks Data Engineer Associate</strong>
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" alt="Databricks" />
+  </li>
+  <li>
     <strong>Azure Data Engineer Associate</strong>
     <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
   </li>
